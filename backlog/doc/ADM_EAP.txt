@@ -1,0 +1,22 @@
+EAP: #####################################----------------------------------------
+
+Por fazer: (ciclo de vida)                --inicio e termino de vida do software--  
+ciclo de vida 1 -  home.html /code_here   --codigo-home-e-pasta-code_here---------  
+
+
+Por entregar:                             --postagem do software principal--------   
+(# TODO)                                  --tarefa=to-do=a-fazer------------------    
+# entrega 1 - home.html                   --pagina-home-em-html-------------------  
+
+-----
+
+Por subprojeto: (mini projeto)            --projeto-dentro-de-projeto-------------
+# - citadel                               --begin-later---------------------------  
+
+todo                                      --tarefa--------------------------------  
+# devlopment
+
+
+tipo: hibrida.                             --tipificaçao-------------------------- 
+################################################################################## 
+ 

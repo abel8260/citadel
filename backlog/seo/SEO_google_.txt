@@ -1,0 +1,40 @@
+##########################################################################
+SEO_GOOGLE_BASED)#########################################################
+ 
+page authority:-------------------------representatividade-da-pagina------
+[INDEX][aguardando-deploy-final]--------[8]-----------------------------
+segundo: https://issueantenna.com/repo/abel8260/PS-do-it-FOR-BACKLOG/
+
+autoridade do dominio:------------------representatividade-do-host--------
+[INDEX][aguardando-deploy-final]--------[...]-----------------------------
+
+relevância de links---------------------utilidade-do-link-----------------
+[INDEX]---------------------------------[8]-----------------------------
+segundo: https://issueantenna.com/repo/abel8260/PS-do-it-FOR-BACKLOG
+
+conteúdo  original e qualidade----------[...]-----------------------------
+[CHECK][ 10 ]---------------------------[biblioteca de wireframes nova]---
+
+tamanho de conteudo---------------------numero-de-paginas-----------------
+[INDEX][ 37 ]---------------------------37-paginas------------------------
+
+palavra chave no titulo-----------------só-no-subtitulo--scrum-helper-----
+[CHECK][ 0 ]----------------------------zero------------------------------
+
+tempo de permanência na página----------[20s]-----------------------------
+[INDEX][aguardando-deploy-final]--------[20s]-----------------------------
+
+
+velocidade de carregamento da pagina----[sem-código-incorporado]----------
+[INDEX][ 7 ][+u]------------------------[sem-bootstrap-incluso-só-CDN]----
+
+design responsivo-----------------------[ok]------------------------------
+[CHECK][INDEX/INDEX][a+][7/10]----------[ok]------------------------------
+
+palavra chave no conteudo---------------só-no-subtitulo--scrum-helper-----
+[INDEX][ scrum helper]------------------ajudante-scrum--------------------
+                       
+##########################################################################
+
+
+         
